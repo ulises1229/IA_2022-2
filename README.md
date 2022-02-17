@@ -17,4 +17,4 @@ El estudiante analizará, comprenderá e implementará algoritmos de aprendizaje
 | 3.              | Algoritmos de aprandizaje|   Regresiones, clasificación, elementos de un algoritmo de aprendizaje    | [UNIDAD I](https://colab.research.google.com/drive/1Gj8qLSIzTDx4BjWs5xh0cdLBnMo4TkRI?usp=sharing)   | Capítulo 5 - (Goodfellow at al, 2017) | 
 
 
-##### Última actualización: 09 de marzo de 2021
+##### Última actualización: 17 de febrero de 2022
